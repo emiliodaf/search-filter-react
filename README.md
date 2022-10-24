@@ -1,43 +1,23 @@
-# Getting Started with Create React App
+That's just  a short review about this project where we have implemented some logic for filtering some data from an Array
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![search_01](https://user-images.githubusercontent.com/85713266/197629697-dc3fd03d-9767-4898-9a51-9b363dbc40af.JPG)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+![search_02](https://user-images.githubusercontent.com/85713266/197630192-2cd0695f-7c54-4914-9236-aa471fa108c3.JPG)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![search_03](https://user-images.githubusercontent.com/85713266/197630226-f15651f5-1b83-49d8-9d54-d2dd163caaf4.JPG)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![search_04](https://user-images.githubusercontent.com/85713266/197630253-2802689d-31fc-4f2e-b26b-8c1551fc48cd.JPG)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
