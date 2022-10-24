@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #1e1d1d;
+  background-color: #d47006;
 }
 
 .App {
@@ -15,24 +15,36 @@ body {
 .search {
   padding: 10px;
   font-size: 20px;
+  border: solid 2px grey;
+  border-radius: 4px;
+  background-color: #304545;
   margin: 20px 500px;
   
 }
 
-.list {
-  padding: 10px;
-  text-align: center;
-  list-style: none;
+.table {
+  width: 50rem;
+  background-color: #373937;
+  display: flex;
+  border: solid 2px #fff;
+  border-radius: 8px;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px 250px;
 }
 
-.listItem {
-
-  background-color: #3d3a3a;
-  border-radius: 4px;
-  color: #e8961c;
-  margin-bottom: 20px;
-  font-family: 'Prompt', sans-serif;
-  font-size: 20px;
- 
- 
+.table-two {
+  color: #fff;
+  font-size: 25px;
+  background-color: #13df3c;
+  
 }
+
+.tableline {
+
+  color: #aee2e8;
+  font-size: 22px;
+}
+
+
+
