@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1e1d1d;
+}
+
+.App {
+  margin: 50px;
+}
+
+.search {
+  padding: 10px;
+  font-size: 20px;
+  margin: 20px 500px;
+  
+}
+
+.list {
+  padding: 10px;
+  text-align: center;
+  list-style: none;
+}
+
+.listItem {
+
+  background-color: #3d3a3a;
+  border-radius: 4px;
+  color: #e8961c;
+  margin-bottom: 20px;
+  font-family: 'Prompt', sans-serif;
+  font-size: 20px;
+ 
+ 
+}
